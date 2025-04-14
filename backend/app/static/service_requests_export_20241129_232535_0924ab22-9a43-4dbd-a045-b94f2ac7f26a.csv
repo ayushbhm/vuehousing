@@ -1,0 +1,5 @@
+Service ID,Customer ID,Professional ID,Date of Request,Status
+1,2,3,2024-11-20,assigned
+2,2,3,,requested
+1,2,3,2024-11-21,requested
+6,2,3,2024-11-21,requested
